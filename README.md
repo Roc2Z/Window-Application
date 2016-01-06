@@ -11,7 +11,7 @@
 
 三、系统设计文档
 ---
-![](https://github.com/kkbs/Window-Application/blob/master/MyRealProject/readme/fx.png) 
+![](https://github.com/kkbs/Window-Application/master/fx.png) 
 
 四、详细设计文档
 ----
